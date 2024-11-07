@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -C play dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kaixin/components": "workspace:*",
+    "@kaixin/theme-chalk": "workspace:*",
+    "@kaixin/utils": "workspace:*",
+    "typescript": "^5.6.3",
+    "vue": "^3.5.12"
+  }
+}
